@@ -9,6 +9,7 @@ import me.hd.wauxv.hook.factory.findDexClassMethod
 import me.hd.wauxv.hook.factory.toDexMethod
 import org.lsposed.lsparanoid.Obfuscate
 import org.luckypray.dexkit.DexKitBridge
+import org.luckypray.dexkit.test
 
 @Obfuscate
 @HookAnno
