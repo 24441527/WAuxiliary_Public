@@ -15,7 +15,7 @@ import org.lsposed.lsparanoid.Obfuscate
 @ViewAnno
 object AutoViewOriginalPhotoHook : SwitchHook("AutoViewOriginalPhotoHook") {
     override val location = "聊天"
-    override val funcName = "自动查看原图"
+    override val funcName = "自动查看原图测试"
     override val funcDesc = "在打开图片和视频时自动点击查看原图"
 
     override fun initOnce() {
